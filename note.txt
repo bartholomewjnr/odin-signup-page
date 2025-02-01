@@ -1,0 +1,2 @@
+button background color #596D48
+input border color #E5E7EB
